@@ -16,3 +16,15 @@ After using Adaptive Threshold:
 
 https://github.com/Arnabdas11/EnglishToHindiArticleConverter/blob/main/Repo/Women%20Tour/Original%20(3).txt
 https://github.com/Arnabdas11/EnglishToHindiArticleConverter/blob/main/Repo/Olympics/Original%20(3).txt
+
+## English text Converted to Hindi using Facebook M2M model
+
+https://github.com/Arnabdas11/EnglishToHindiArticleConverter/blob/main/Repo/Women%20Tour/Translated%20(2).txt
+https://github.com/Arnabdas11/EnglishToHindiArticleConverter/blob/main/Repo/Olympics/Translated%20(2).txt
+
+## Hindi audio using GTTS
+
+https://github.com/Arnabdas11/EnglishToHindiArticleConverter/blob/main/Repo/Women%20Tour/hindi%20(6).mp3
+https://github.com/Arnabdas11/EnglishToHindiArticleConverter/blob/main/Repo/Women%20Tour/hindi%20(6).mp3
+
+P.S.- Tried to deploy it in Heroku but the slug size was too much. Any kind of feedback is appreciated. Thank You.

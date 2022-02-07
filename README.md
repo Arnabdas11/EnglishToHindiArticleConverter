@@ -11,3 +11,8 @@ For the extraction of text from the Image, Tesseract-OCR has been used.
 After using Adaptive Threshold:
 
 <img src="https://github.com/Arnabdas11/EnglishToHindiArticleConverter/blob/main/Repo/Women%20Tour/Thresholded%20(1).jpg" width="150" height="400">		<img src="https://github.com/Arnabdas11/EnglishToHindiArticleConverter/blob/main/Repo/Olympics/Thresholded.jpg" width="500" height="200">
+
+## Text detected using Tesseract-OCR after fine tuning
+
+https://github.com/Arnabdas11/EnglishToHindiArticleConverter/blob/main/Repo/Women%20Tour/Original%20(3).txt
+https://github.com/Arnabdas11/EnglishToHindiArticleConverter/blob/main/Repo/Olympics/Original%20(3).txt

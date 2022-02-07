@@ -1,0 +1,8 @@
+gtts==2.2.3
+opencv_python==4.5.4.58
+pandas==1.2.4
+Pillow==9.0.1
+pytesseract==0.3.8
+streamlit==1.5.0
+torch==1.10.0
+transformers==4.15.0
